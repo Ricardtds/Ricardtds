@@ -3,6 +3,7 @@
   Olá, eu me chamo Ricardo e tenho como um de meus objetivos me tornar um bom desenvolvedor Front-End. 
    
   - 🍵Esta será uma longa e divertida jornada. Just chill and take a cup of tea.
+    <a href="https://www.rteixeira.com.br/">
     <img align="center" alt="Ricardtds" height="300em" src="https://i.ibb.co/Y344RSL/ezgif-3-341c5558ab77.gif"/>
   </div>
 <div>
