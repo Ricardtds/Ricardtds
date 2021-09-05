@@ -1,11 +1,13 @@
 ## Bem vindo ao meu perfil!
-  <div>
+<div>
   Olá, eu me chamo Ricardo e tenho como um de meus objetivos me tornar um bom desenvolvedor Front-End. 
    
   - 🍵Esta será uma longa e divertida jornada. Just chill and take a cup of tea.
     <a href="https://www.rteixeira.com.br/" target="_blank">
-    <img align="center" alt="Ricardtds" height="300em" src="https://i.ibb.co/Y344RSL/ezgif-3-341c5558ab77.gif"/>
-  </div>
+        <img align="center" alt="Ricardtds" height="300em" src="https://i.ibb.co/Y344RSL/ezgif-3-341c5558ab77.gif"/>
+    </a>
+    
+</div>
 <div>
   <a href="https://github.com/Ricardtds">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ricardtds&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
