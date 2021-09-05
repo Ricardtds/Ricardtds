@@ -1,13 +1,12 @@
-## Bem vindo ao meu perfil!
+
 <div>
-  <a href="https://www.rteixeira.com.br/" target="_blank">
-    <img align="right" width="45%" alt="Ricardtds" src="https://i.ibb.co/Y344RSL/ezgif-3-341c5558ab77.gif"/>
-  </a>
-  <p>Hello, my name is Ricardo and one of my goals is to become a Front-End developer.</
+  <h1>Bem vindo ao meu perfil!</h1>
+Hello, my name is Ricardo and one of my goals is to become a Front-End developer
+  <a href="https://www.rteixeira.com.br" target="_blank"><img width="45%" align="right" src="https://i.ibb.co/Y344RSL/ezgif-3-341c5558ab77.gif" target="_blank"></a>
   
 - 🍵 It's gonna be a long and fun journey..
-- 🎶 Just chill and take a cup of tea.
-</div>
+- 🎶 Just chill and take a cup of tea.</div>
+
   
 <div>
   <a href="https://github.com/Ricardtds">
@@ -44,6 +43,4 @@
   ---
   
   <a href="https://twitter.com/Ricardo23068009" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
-<!--   ![Snake animation](https://github.com/Ricardtds/Ricardtds/blob/output/github-contribution-grid-snake.svg) -->
 
