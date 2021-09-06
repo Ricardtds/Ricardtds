@@ -40,6 +40,8 @@ Hello, my name is Ricardo and one of my goals is to become a Front-End developer
   <img align="center" alt="Ricard-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"/> 
 </div>
   
+  Still deciding which ones are better for me... 🍵
+  
   ---
   
   <a href="https://twitter.com/Ricardo23068009" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
