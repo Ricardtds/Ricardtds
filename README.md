@@ -11,7 +11,7 @@ Hello, my name is Ricardo and one of my goals is to become a Front-End developer
 <div>
   <a href="https://github.com/Ricardtds">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ricardtds&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardtds&layout=compact&langs_count=7&theme=merko"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardtds&layout=compact&langs_count=5&theme=merko"/>
 </div>
   
 ---
@@ -43,4 +43,3 @@ Hello, my name is Ricardo and one of my goals is to become a Front-End developer
   ---
   
   <a href="https://twitter.com/Ricardo23068009" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
