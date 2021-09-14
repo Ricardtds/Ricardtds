@@ -16,7 +16,7 @@ Hello, my name is Ricardo and one of my goals is to become a Front-End developer
   
 ---
   
-## Languages I am studying/going to study!
+## What I am studying/going to study!
 
 <div>
   <img align="center" alt="Ricard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
