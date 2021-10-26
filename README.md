@@ -3,11 +3,9 @@
   <h2>Welcome</h2>
 Hello! I'm Ricardo.
 
-  <a href="https://www.rteixeira.com.br" target="_blank"><img width="45%" align="right" src="https://i.ibb.co/Y344RSL/ezgif-3-341c5558ab77.gif" target="_blank"></a>
+  <a href="https://www.rteixeira.com.br" target="_blank"><img width="45%" align="right" src="https://i.ibb.co/FBd7JVP/68747470733a2f2f692e6962622e636f2f5933343452534c2f657a6769662d332d3334316335353538616237372e676966.png" target="_blank"></a>
 - Computer Engineering student.
-- Fascinated with Front-End.
-<!-- - 🍵 It's gonna be a long and fun journey..
-- 🎶 Just chill and take a cup of tea. --></div>
+</div>
 
   
 <div>
