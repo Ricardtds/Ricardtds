@@ -4,7 +4,7 @@
 Hello! I'm Ricardo.
 
   <a href="https://www.linkedin.com/in/ricardotds/" target="_blank"><img width="45%" align="right" src="https://i.ibb.co/FBd7JVP/68747470733a2f2f692e6962622e636f2f5933343452534c2f657a6769662d332d3334316335353538616237372e676966.png" target="_blank"></a>
-- Computer Engineering student.
+- Computer Engineering student - UFRB.
 - Data Science student.
 </div>
 
