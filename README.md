@@ -23,7 +23,7 @@ Hello! I'm Ricardo.
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"/>
   |
-  <img align="center" alt="Tauri" height="30" width="40" src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png"/>
+  <img align="center" alt="Tauri" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tauri/tauri-original.svg"/>
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>
 <!--   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/> -->
   |
